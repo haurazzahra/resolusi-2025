@@ -1,2 +1,2 @@
 # resolusi-2025
-coba ajh
+repo untuk mengisi target dan rencana di tahun ini
